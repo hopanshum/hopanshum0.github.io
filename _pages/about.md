@@ -19,4 +19,4 @@ social: false # includes social icons at the bottom of the page
 ---
 
 # About me
-Your biography here
+Hi! I'm Peter Shum...
