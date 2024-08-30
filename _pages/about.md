@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Macroeconomics Theory • Network • Game Theory</a>. 
+subtitle: <a href='#'>Macroeconomics Theory • Network • Game Theory</a>
 
 <p>Research group or Department Name </p>
 <p>Duke University </p>
