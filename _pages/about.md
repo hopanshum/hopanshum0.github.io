@@ -2,10 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Macroeconomics Theory • Network • Game Theory</a>. Research group or Department Name.
+subtitle: <a href='#'>Macroeconomics Theory • Network • Game Theory</a> <p>Research group or Department Name, Duke University</p>
 
 profile:
-  align: topright
+  align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
