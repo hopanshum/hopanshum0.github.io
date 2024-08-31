@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hobbies
-permalink: /
+permalink: /hobbies/
+title: hobbies
 nav: true
 nav_order: 5
 ---
