@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='#'><b>Applied Theory • Economics of Network • Industrial Organization</b></a> <p>Department of Economics, Duke University</p>
 
