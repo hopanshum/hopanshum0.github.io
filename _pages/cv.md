@@ -1,8 +1,8 @@
 ---
-layout: page
-permalink: /cv/
+layout: cv
 title: CV
 nav: true
 nav_order: 4
+newtab: true
+permalink: /assets/pdf/CV_LaTeX.pdf
 ---
-<object data="CV_LaTeX.pdf" width="1000" height="1000" type='application/pdf'/>
