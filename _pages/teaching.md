@@ -14,8 +14,11 @@ nav_order: 3
 
 <h2 style="font-variant: small-caps;">TA</h2>
 
-* <b>2023 Fall:</b> ECON620 ‑ Game Theory with Applications 
-* <b>2020 Fall:</b> ECON701&705 ‑ Microeconomics Analysis I & II 
+* <b>2023 Fall, 2024 Spring, 2024 Fall:</b> ECON620 ‑ Game Theory with Applications 
+* <b>2020 Fall:</b> ECON701 ‑ Microeconomics Analysis I
+* <b>2021 Spring:</b> ECON705 ‑ Microeconomics Analysis II
+
+<h2 style="font-variant: small-caps;">Teaching Statement:</h2>
 
 <div style="width:100%; height:800">
 <iframe src="https://1drv.ms/w/c/c99c347cb6a10c51/IQNLy5ZN9LboSKO8Pro6jqNxAUiR6lTKkoJYo5GKEq6Gn9M?em=2" width="100%" height="800">
