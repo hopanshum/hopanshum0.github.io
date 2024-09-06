@@ -16,4 +16,6 @@ social: false # includes social icons at the bottom of the page
 ---
 
 <h2 style="font-variant: small-caps;">About Me</h2>
-Hi! I'm Peter Shum, a Ph.D. Candidate in the Economics Department of Duke. I will participate the job market in the Fall of 2024. My research interest is applied theory in network settings. I have worked on projects of network markets, company hierarchies, and bribery.
+Hi! I am participating the job market in the Fall of 2024. My research interest is applied theory in network settings. I have worked on projects of network markets, company hierarchies, and polarization.
+
+Prior to the Ph.D. program at Duke, I have studied in the University of Hong Kong for undergraduate and the London School of Economics and Political Sciences for master.
