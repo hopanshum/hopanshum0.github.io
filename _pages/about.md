@@ -16,6 +16,6 @@ social: false # includes social icons at the bottom of the page
 ---
 
 <h2 style="font-variant: small-caps;">About</h2>
-I am participating the job market in the Fall of 2024. My research interest is applied theory in network settings. I have worked on projects of network markets, company hierarchies, and polarizating effect.
+I am participating the job market in the Fall of 2024. My research interest is applied theory in network settings with interests in Industrial Organization, Political Economy, and Urban Economics. I have worked on projects of network markets, company hierarchies, and polarization.
 
 Prior to the Ph.D. program at Duke, I went to the University of Hong Kong for undergraduate study and the London School of Economics and Political Sciences for master study.
