@@ -4,12 +4,12 @@ permalink: /research/
 title: Research
 description: Research in reversed chronological order.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
+<!-- {% include bib_search.liquid %} -->
 
 <div class="publications">
 

@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: 
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 <h2 style="font-variant: small-caps;">Instructor</h2>
