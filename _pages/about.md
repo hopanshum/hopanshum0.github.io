@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'><b>Applied Theory • Economics of Network • Industrial Organization</b></a> <p>Department of Economics, Duke University</p> <p>hopan [dot] shum [at] duke [dot] edu</p>
+subtitle: <span style="color:#e26d00;font-weight:400;font-size:17px"> Applied Theory • Economics of Network • Industrial Organization </span><p>Department of Economics, Duke University</p> <p>hopan [dot] shum [at] duke [dot] edu</p>
 
 profile:
   align: right
