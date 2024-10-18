@@ -33,3 +33,8 @@ Prior to Duke, I studied in the London School of Economics and Political Science
 
 
 <h2 style="font-variant: small-caps;">Research Philosophy</h2>
+
+<div style="width:100%; height:800">
+<iframe src="https://1drv.ms/w/c/c99c347cb6a10c51/IQQwDKWAYjdpRKXul8afjFThATNOkNrjyhUJ1x-_m4-ZyzU?em=2" width="100%" height="800">
+</iframe>
+</div>
