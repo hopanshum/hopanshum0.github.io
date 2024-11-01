@@ -21,3 +21,5 @@ I am an applied theorist participating in the job market in the Fall of 2024. My
 I plan to graduate from Duke in the Spring of 2025. Prior to the Ph.D. program at Duke, I completed my undergraduate studies at the University of Hong Kong and my master’s studies at the London School of Economics and Political Science.
 
 I am interested in teaching economics as part of a liberal arts education. I have been an instructor and teaching assistant for various courses at Duke, including Intermediate Microeconomics, Game Theory, and Graduate Microeconomics.
+
+I am available for interviews starting in mid-December, particularly for the European Job Market.
