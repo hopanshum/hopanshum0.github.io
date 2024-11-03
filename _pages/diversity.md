@@ -3,7 +3,7 @@ layout: page
 permalink: /diversity/
 title: Diversity
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 <h2 style="font-variant: small-caps;">Diversity Statement</h2>
