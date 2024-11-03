@@ -3,7 +3,7 @@ layout: post
 permalink: /cv/
 title: CV
 nav: true
-nav_order: 5
+nav_order: 6
 description: 
 ---
 <a href="https://1drv.ms/b/c/c99c347cb6a10c51/EU_qjCqapZJPgc_F72pFGzcB8CRxUbHERsT_X1xQFW8JZw?e=agV8rl">[Link]</a>
