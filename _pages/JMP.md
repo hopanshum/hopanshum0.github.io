@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /cv/
+permalink: /jmp/
 title: Job Market Paper
 nav: true
 nav_order: 2
