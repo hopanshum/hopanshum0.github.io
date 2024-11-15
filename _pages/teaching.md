@@ -14,7 +14,7 @@ nav_order: 3
 
 <h2 style="font-variant: small-caps;">Assistant</h2>
 
-* <b>2023 Fall, 2024 Spring, 2024 Fall:</b> ECON620 ‑ Game Theory with Applications 
+* <b>2023 Fall, 2024 Spring, 2024 Fall:</b> ECON620 ‑ Game Theory with Applications <a href="https://1drv.ms/b/c/c99c347cb6a10c51/Ea_uOHcpEB5DvvXtM4TsVFABP_aKFGk8bomnhID6BjqDnA?e=IElnyA">[Fall 2023 Evaluations]</a>  <a href="https://1drv.ms/b/c/c99c347cb6a10c51/EbJZmUyJtkVHtmnNmquGbjYB_wAWq4vpGMD-qvad8Zs1jQ?e=BKROJr">[Spring 2024 Evaluations]</a>  
 * <b>2020 Fall:</b> ECON701 ‑ Microeconomics Analysis I <a href="https://1drv.ms/b/c/c99c347cb6a10c51/ERzGotOL1vBHn9TK0tiapD8ByHrOfuAKbhvHsjpfT7EPjw?e=FvjHGO">[Evaluations]</a>  
 * <b>2021 Spring:</b> ECON705 ‑ Microeconomics Analysis II
 * <b>2024 Spring:</b> Department Grader
