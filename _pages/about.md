@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <span style="color:#e26d00;font-weight:400;font-size:17px"> Applied Theory • Network Economics • Industrial Organization </span><p>Department of Economics, Duke University</p> <p>hopan [dot] shum [at] duke [dot] edu</p>
+subtitle: <span style="color:#e26d00;font-weight:400;font-size:17px"> Applied Theory • Network Economics • Industrial Organization </span><p>Department of Economics, National Chung Cheng University</p> <p>hopan [dot] shum [at] duke [dot] edu</p>
 
 profile:
   align: right
@@ -16,7 +16,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 <h2 style="font-variant: small-caps;">About</h2>
-I am an applied theorist participating in the Economics Department of the National Chung Ching University, located at the lovely city of Chiayi, Taiwan. My research focuses on applied game theory in network settings, with interests in Industrial Organization, Political Economy, and Urban Economics. I have worked on projects involving networked markets, company hierarchies, demand estimation, and polarization.
+I am an applied theorist joining the Economics Department of the National Chung Ching University, located at the lovely city of Chiayi, Taiwan. My research focuses on applied game theory in network settings, with interests in Industrial Organization, Political Economy, and Urban Economics. I have worked on projects involving networked markets, company hierarchies, demand estimation, and polarization.
 
 I am interested in teaching economics as part of a liberal arts education. I have been an instructor and teaching assistant for various courses, including Intermediate Microeconomics, Game Theory, and Graduate Microeconomics.
 
