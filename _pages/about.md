@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <span style="color:#e26d00;font-weight:400;font-size:17px"> Applied Theory • Network Economics • Industrial Organization </span><p>Department of Economics, National Chung Cheng University</p> <p>petershum[at] ccu [dot] edu [dot] tw</p>
+subtitle: <span style="color:#e26d00;font-weight:400;font-size:17px"> Applied Theory • Network Economics • Industrial Organization </span><p>Department of Economics, National Chung Cheng University</p> <p>petershum [at] ccu [dot] edu [dot] tw</p>
 
 profile:
   align: right
@@ -21,4 +21,6 @@ I am an applied theorist at the Economics Department of the National Chung Ching
 I am interested in teaching economics as part of a liberal arts education. I have been an instructor and teaching assistant for various courses, including Introductory Principles of Economics, Intermediate Microeconomics, Game Theory, and Graduate Microeconomics.
 
 I graduated from Duke in the Spring of 2025. Prior to the Ph.D. program at Duke, I completed my undergraduate studies at the University of Hong Kong and my master’s studies at the London School of Economics and Political Science.
+
+[Link to my webpage in CCU](https://econ.ccu.edu.tw/p/426-1117-85.php?Lang=en)
 
